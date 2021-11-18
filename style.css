@@ -40,6 +40,12 @@ body {
   }  
   #output{
       border:none;
+      font-family: 'Noto Sans', sans-serif;
+      font-size: 1.5rem;
+      padding: 0.25rem 1rem;
+      margin: 1rem;
+      border: none;
+      font-family: 'Noto Sans', sans-serif;
   }
 
   .footer-list { 

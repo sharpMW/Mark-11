@@ -25,8 +25,8 @@ function checkBirthDateLucky(){
 
 function compareValues(sum,luckyNum){ 
     if(sum%luckyNum === 0){
-        outputBox.innerText="Your Birthday is lucky";
+        outputBox.innerText="Your Birthday is lucky 🥳";
     } else{ 
-        outputBox.innerText="Your Birthday is not lucky";
+        outputBox.innerText="Your Birthday is not lucky 😅";
     }
 }
